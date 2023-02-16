@@ -1,5 +1,3 @@
-# chat
-for chat
 13. Nõrkvoolu-, serveri ja UPSi ruumid
 13.1 Kasutatav alusdokumentatsioon
 
